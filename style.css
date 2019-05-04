@@ -1,0 +1,84 @@
+/* Bio, Contact, Index */
+
+@media (min-width: 576px) {
+@media (min-width: 768px) { 
+@media (min-width: 992px) { 
+@media (min-width: 1200px) {
+  
+.navbar-brand {
+  margin:0 0 0 400px;
+  font-size: 30px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: #4aaaa5;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  color:black;
+}
+
+.nav-item1 {
+  margin: 0 0 0 700px;
+}
+
+.container {
+  background-color: white;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 2;
+  }
+
+h2 {
+  color: #4aaaa5;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border-bottom: #cccccc;
+  border-bottom-style: solid;
+  
+ }
+
+ .row3 {
+   margin: 0, 0, 0, 10px;
+ }
+
+ .img-fluid {
+  float: left;
+  margin-right: 0px;
+  margin-left: 10px;
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+
+.fixed-footer{
+  width: 100%;
+  position: fixed;        
+  padding: 10px;
+  bottom: 0;
+  left: 0;
+  background: #666666;
+  color: white;
+  text-align: center;
+  border-top: 8px solid #4aaaa5;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-image: url(file:///C:/Users/pamel/Basic-Portfolio/Assets/images/symphony.png)
+}
+
+.btn-primary {
+  background-color: #4aaaa5;
+  border-color: #4aaaa5;
+}
+
+h3 {
+  color: white;
+  background-color: #4aaaa5;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.col {
+  margin: 0 0 0 50px;
+}
+}
+}
+}
+}
