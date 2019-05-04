@@ -27,7 +27,7 @@
   }
 
   body {
-    background-image: url(file:///C:/Users/pamel/pamelatholan-bootstrap.github.io/symphony.png)
+    background-image: url("symphony.png")
   }
 
 h2 {
