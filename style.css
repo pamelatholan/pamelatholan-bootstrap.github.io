@@ -26,6 +26,10 @@
   line-height: 2;
   }
 
+  body {
+    background-image: url(file:///C:/Users/pamel/pamelatholan-bootstrap.github.io/symphony.png)
+  }
+
 h2 {
   color: #4aaaa5;
   font-family: Georgia, 'Times New Roman', Times, serif;
